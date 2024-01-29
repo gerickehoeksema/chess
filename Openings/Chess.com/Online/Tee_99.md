@@ -3,7 +3,7 @@
 ```pgn
 
 orientation: black
-size: 350px
+size: 450px
 
 [Event "Tee_99 vs gerickehoeksema"]
 [Site "Chess.com"]

@@ -3,7 +3,7 @@
 ```pgn
 
 orientation: white
-size: 350px
+size: 450px
 
 [Event "Vs. Computer"]
 [Site "Chess.com"]
